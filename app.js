@@ -179,7 +179,6 @@ var listCoin = [
     'MANTAIDR',
     'OMIDR',
     'METISIDR',
-    'MCIDR',
     'MDXIDR',
     'MTLIDR',
     'MINAIDR',
