@@ -95,7 +95,6 @@ var listCoin = [
     'BELIDR',
     'BICOIDR',
     'BNXIDR',
-    'BNXOLDIDR',
     'BUSDIDR',
     'BSWIDR',
     'BCHIDR',
